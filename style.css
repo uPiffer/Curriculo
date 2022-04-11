@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+  }
+  img {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    box-shadow: 2px 2px 10px;
+    color: lightblue
+  }
+  h1{
+    color: lightblue
+  }
+  p {
+    width: 520px
+  }
